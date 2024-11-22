@@ -1,501 +1,997 @@
-fine_label utterance
-NUM:dist How far is it from Denver to Aspen ?
-LOC:city "What county is Modesto 
-HUM:desc Who was Galileo ?
-DESC:def What is an atom ?
-NUM:date When did Hawaii become a state ?
-NUM:dist How tall is the Sears Building ?
-HUM:gr George Bush purchased a small interest in which baseball team ?
-ENTY:plant What is Australia 's national flower ?
-DESC:reason Why does the moon turn orange ?
-DESC:def What is autism ?
-LOC:city What city had a world fair in 1900 ?
-HUM:ind What person 's head is on a dime ?
-NUM:weight What is the average weight of a Yellow Labrador ?
-HUM:ind Who was the first man to fly across the Pacific Ocean ?
-NUM:date When did Idaho become a state ?
-NUM:other What is the life expectancy for crickets ?
-ENTY:substance What metal has the highest melting point ?
-HUM:ind Who developed the vaccination against polio ?
-DESC:def What is epilepsy ?
-NUM:date What year did the Titanic sink ?
-HUM:ind Who was the first American to walk in space ?
-DESC:def What is a biosphere ?
-LOC:other What river in the US is known as the Big Muddy ?
-DESC:def What is bipolar disorder ?
-DESC:def What is cholesterol ?
-HUM:ind Who developed the Macintosh computer ?
-DESC:def What is caffeine ?
-LOC:other What imaginary line is halfway between the North and South Poles ?
-LOC:other Where is John Wayne airport ?
-LOC:other What hemisphere is the Philippines in ?
-NUM:speed What is the average speed of the horses at the Kentucky Derby ?
-LOC:mount Where are the Rocky Mountains ?
-DESC:def What are invertebrates ?
-NUM:temp What is the temperature at the center of the earth ?
-NUM:date When did John F. Kennedy get elected as President ?
-NUM:period How old was Elvis Presley when he died ?
-LOC:other Where is the Orinoco River ?
-NUM:dist How far is the service line from the net in tennis ?
-NUM:count How much fiber should you have per day ?
-NUM:count How many Great Lakes are there ?
-ENTY:plant Material called linen is made from what plant ?
-DESC:def What is Teflon ?
-DESC:def What is amitriptyline ?
-DESC:def What is a shaman ?
-ENTY:animal What is the proper name for a female walrus ?
-ENTY:animal What is a group of turkeys called ?
-NUM:period How long did Rip Van Winkle sleep ?
-DESC:def What are triglycerides ?
-NUM:count How many liters in a gallon ?
-HUM:gr What is the name of the chocolate company in San Francisco ?
-DESC:def What are amphibians ?
-HUM:ind Who discovered x-rays ?
-HUM:ind Which comedian 's signature line is `` Can we talk '' ?
-DESC:def What is fibromyalgia ?
-DESC:desc What is done with worn or outdated flags ?
-DESC:def What does cc in engines mean ?
-NUM:date When did Elvis Presley die ?
-LOC:city What is the capital of Yugoslavia ?
-LOC:city Where is Milan ?
-NUM:speed What is the speed hummingbirds fly ?
-LOC:city What is the oldest city in the United States ?
-HUM:ind What was W.C. Fields ' real name ?
-LOC:other "What river flows between Fargo 
-ENTY:food What do bats eat ?
-LOC:state What state did the Battle of Bighorn take place in ?
-HUM:desc Who was Abraham Lincoln ?
-ENTY:termeq What do you call a newborn kangaroo ?
-DESC:def What are spider veins ?
-NUM:date What day and month did John Lennon die ?
-LOC:other What strait separates North America from Asia ?
-NUM:other What is the population of Seattle ?
-NUM:money How much was a ticket for the Titanic ?
-LOC:city What is the largest city in the world ?
-HUM:ind What American composer wrote the music for `` West Side Story '' ?
-LOC:other Where is the Mall of the America ?
-DESC:def What is the pH scale ?
-ENTY:currency What type of currency is used in Australia ?
-NUM:dist "How tall is the Gateway Arch in St. Louis 
-NUM:weight How much does the human adult female brain weigh ?
-HUM:ind Who was the first governor of Alaska ?
-DESC:def What is a prism ?
-NUM:date When was the first liver transplant ?
-HUM:ind Who was elected president of South Africa in 1994 ?
-NUM:other What is the population of China ?
-NUM:date When was Rosa Parks born ?
-DESC:reason Why is a ladybug helpful ?
-DESC:def What is amoxicillin ?
-HUM:ind Who was the first female United States Representative ?
-DESC:def What are xerophytes ?
-LOC:country What country did Ponce de Leon come from ?
-ENTY:event The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?
-DESC:def What is desktop publishing ?
-NUM:temp What is the temperature of the sun 's surface ?
-NUM:date What year did Canada join the United Nations ?
-HUM:gr What is the oldest university in the US ?
-LOC:other Where is Prince Edward Island ?
-NUM:date "Mercury 
-DESC:def What is cryogenics ?
-DESC:def What are coral reefs ?
-ENTY:other What is the longest major league baseball-winning streak ?
-DESC:def What is neurology ?
-HUM:ind Who invented the calculator ?
-DESC:manner How do you measure earthquakes ?
-HUM:desc Who is Duke Ellington ?
-LOC:city "What county is Phoenix 
-DESC:def What is a micron ?
-NUM:temp "The sun 's core 
-ENTY:animal What is the Ohio state bird ?
-NUM:date When were William Shakespeare 's twins born ?
-LOC:other What is the highest dam in the U.S. ?
-ENTY:color What color is a poison arrow frog ?
-DESC:def What is acupuncture ?
-NUM:dist What is the length of the coastline of the state of Alaska ?
-HUM:ind What is the name of Neil Armstrong 's wife ?
-ENTY:plant What is Hawaii 's state flower ?
-HUM:ind Who won Ms. American in 1989 ?
-NUM:date When did the Hindenberg crash ?
-ENTY:substance What mineral helps prevent osteoporosis ?
-NUM:date What was the last year that the Chicago Cubs won the World Series ?
-LOC:other Where is Perth ?
-NUM:date What year did WWII begin ?
-NUM:dist What is the diameter of a golf ball ?
-DESC:def What is an eclipse ?
-HUM:ind Who discovered America ?
-NUM:dist What is the earth 's diameter ?
-HUM:ind Which president was unmarried ?
-NUM:dist How wide is the Milky Way galaxy ?
-NUM:date During which season do most thunderstorms occur ?
-DESC:def What is Wimbledon ?
-NUM:period What is the gestation period for a cat ?
-NUM:dist How far is a nautical mile ?
-HUM:ind Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?
-DESC:def What does target heart rate mean ?
-ENTY:product What was the first satellite to go into space ?
-DESC:def What is foreclosure ?
-ENTY:other What is the major fault line near Kentucky ?
-LOC:other Where is the Holland Tunnel ?
-HUM:ind Who wrote the hymn `` Amazing Grace '' ?
-HUM:title What position did Willie Davis play in baseball ?
-DESC:def What are platelets ?
-DESC:def What is severance pay ?
-ENTY:animal What is the name of Roy Roger 's dog ?
-LOC:other Where are the National Archives ?
-ENTY:animal What is a baby turkey called ?
-DESC:def What is poliomyelitis ?
-ENTY:body What is the longest bone in the human body ?
-HUM:ind Who is a German philosopher ?
-ENTY:veh What were Christopher Columbus ' three ships ?
-DESC:def What does Phi Beta Kappa mean ?
-DESC:def What is nicotine ?
-ENTY:termeq What is another name for vitamin B1 ?
-HUM:ind Who discovered radium ?
-DESC:def What are sunspots ?
-NUM:date When was Algeria colonized ?
-HUM:gr What baseball team was the first to make numbers part of their uniform ?
-LOC:other What continent is Egypt on ?
-LOC:city What is the capital of Mongolia ?
-DESC:def What is nanotechnology ?
-LOC:other In the late 1700 's British convicts were used to populate which colony ?
-LOC:state What state is the geographic center of the lower 48 states ?
-DESC:def What is an obtuse angle ?
-DESC:def What are polymers ?
-NUM:date When is hurricane season in the Caribbean ?
-LOC:other Where is the volcano Mauna Loa ?
-ENTY:termeq What is another astronomic term for the Northern Lights ?
-LOC:other What peninsula is Spain part of ?
-NUM:date When was Lyndon B. Johnson born ?
-DESC:def What is acetaminophen ?
-LOC:state What state has the least amount of rain per year ?
-HUM:ind Who founded American Red Cross ?
-NUM:date What year did the Milwaukee Braves become the Atlanta Braves ?
-NUM:speed How fast is alcohol absorbed ?
-NUM:date When is the summer solstice ?
-DESC:def What is supernova ?
-LOC:other Where is the Shawnee National Forest ?
-LOC:state What U.S. state 's motto is `` Live free or Die '' ?
-LOC:other Where is the Lourve ?
-NUM:date When was the first stamp issued ?
-ENTY:color What primary colors do you mix to make orange ?
-NUM:dist How far is Pluto from the sun ?
-LOC:other What body of water are the Canary Islands in ?
-DESC:def What is neuropathy ?
-LOC:other Where is the Euphrates River ?
-DESC:def What is cryptography ?
-ENTY:substance What is natural gas composed of ?
-HUM:ind Who is the Prime Minister of Canada ?
-HUM:ind What French ruler was defeated at the battle of Waterloo ?
-DESC:def What is leukemia ?
-LOC:other Where did Howard Hughes die ?
-ENTY:substance What is the birthstone for June ?
-ENTY:other What is the sales tax in Minnesota ?
-NUM:dist What is the distance in miles from the earth to the sun ?
-NUM:period What is the average life span for a chicken ?
-NUM:date When was the first Wal-Mart store opened ?
-DESC:def What is relative humidity ?
-LOC:city What city has the zip code of 35824 ?
-ENTY:currency What currency is used in Algeria ?
-HUM:ind Who invented the hula hoop ?
-ENTY:product What was the most popular toy in 1957 ?
-ENTY:substance What is pastrami made of ?
-ENTY:product What is the name of the satellite that the Soviet Union sent into space in 1957 ?
-LOC:city What city 's newspaper is called `` The Enquirer '' ?
-HUM:ind Who invented the slinky ?
-ENTY:animal What are the animals that don 't have backbones called ?
-NUM:other What is the melting point of copper ?
-LOC:other Where is the volcano Olympus Mons located ?
-HUM:ind Who was the 23rd president of the United States ?
-NUM:temp What is the average body temperature ?
-DESC:desc What does a defibrillator do ?
-DESC:desc What is the effect of acid rain ?
-NUM:date What year did the United States abolish the draft ?
-NUM:speed How fast is the speed of light ?
-LOC:state What province is Montreal in ?
-LOC:other What New York City structure is also known as the Twin Towers ?
-DESC:def What is fungus ?
-ENTY:lang What is the most frequently spoken language in the Netherlands ?
-DESC:def What is sodium chloride ?
-ENTY:termeq What are the spots on dominoes called ?
-NUM:count How many pounds in a ton ?
-DESC:def What is influenza ?
-DESC:def What is ozone depletion ?
-NUM:date What year was the Mona Lisa painted ?
-DESC:def What does `` Sitting Shiva '' mean ?
-ENTY:other "What is the electrical output in Madrid 
-LOC:mount Which mountain range in North America stretches from Maine to Georgia ?
-ENTY:substance What is plastic made of ?
-NUM:other What is the population of Nigeria ?
-DESC:desc What does your spleen do ?
-LOC:other Where is the Grand Canyon ?
-HUM:ind Who invented the telephone ?
-NUM:date What year did the U.S. buy Alaska ?
-HUM:ind What is the name of the leader of Ireland ?
-DESC:def What is phenylalanine ?
-NUM:count How many gallons of water are there in a cubic foot ?
-ENTY:other What are the two houses of the Legislative branch ?
-DESC:def What is sonar ?
-LOC:other "In Poland 
-DESC:def What is phosphorus ?
-LOC:other What is the location of the Sea of Tranquility ?
-NUM:speed How fast is sound ?
-LOC:state What French province is cognac produced in ?
-DESC:def What is Valentine 's Day ?
-DESC:reason What causes gray hair ?
-DESC:def What is hypertension ?
-DESC:def What is bandwidth ?
-LOC:other What is the longest suspension bridge in the U.S. ?
-DESC:def What is a parasite ?
-DESC:def What is home equity ?
-DESC:desc What do meteorologists do ?
-ENTY:other What is the criterion for being legally blind ?
-HUM:ind Who is the tallest man in the world ?
-LOC:city What are the twin cities ?
-ENTY:other What did Edward Binney and Howard Smith invent in 1903 ?
-ENTY:substance What is the statue of liberty made of ?
-DESC:def What is pilates ?
-LOC:other What planet is known as the `` red '' planet ?
-NUM:dist What is the depth of the Nile river ?
-ENTY:termeq What is the colorful Korean traditional dress called ?
-DESC:def What is Mardi Gras ?
-NUM:money Mexican pesos are worth what in U.S. dollars ?
-HUM:ind Who was the first African American to play for the Brooklyn Dodgers ?
-HUM:ind Who was the first Prime Minister of Canada ?
-NUM:count How many Admirals are there in the U.S. Navy ?
-ENTY:instru What instrument did Glenn Miller play ?
-NUM:period How old was Joan of Arc when she died ?
-DESC:def What does the word fortnight mean ?
-DESC:def What is dianetics ?
-LOC:city What is the capital of Ethiopia ?
-NUM:period For how long is an elephant pregnant ?
-DESC:manner How did Janice Joplin die ?
-ENTY:lang What is the primary language in Iceland ?
-DESC:desc What is the difference between AM radio stations and FM radio stations ?
-DESC:def What is osteoporosis ?
-HUM:ind Who was the first woman governor in the U.S. ?
-DESC:def What is peyote ?
-DESC:reason What is the esophagus used for ?
-DESC:def What is viscosity ?
-NUM:date What year did Oklahoma become a state ?
-ABBR:abb What is the abbreviation for Texas ?
-ENTY:substance What is a mirror made out of ?
-LOC:other Where on the body is a mortarboard worn ?
-HUM:ind What was J.F.K. 's wife 's name ?
-ABBR:exp What does I.V. stand for ?
-DESC:def What is the chunnel ?
-LOC:other Where is Hitler buried ?
-DESC:def What are antacids ?
-DESC:def What is pulmonary fibrosis ?
-DESC:def What are Quaaludes ?
-DESC:def What is naproxen ?
-DESC:def What is strep throat ?
-LOC:city What is the largest city in the U.S. ?
-ENTY:dismed What is foot and mouth disease ?
-NUM:other What is the life expectancy of a dollar bill ?
-ENTY:termeq What do you call a professional map drawer ?
-DESC:def What are Aborigines ?
-DESC:def What is hybridization ?
-ENTY:color What color is indigo ?
-NUM:period How old do you have to be in order to rent a car in Italy ?
-ENTY:other What does a barometer measure ?
-ENTY:color What color is a giraffe 's tongue ?
-ABBR:exp What does USPS stand for ?
-NUM:date What year did the NFL go on strike ?
-DESC:def What is solar wind ?
-NUM:date What date did Neil Armstrong land on the moon ?
-NUM:date When was Hiroshima bombed ?
-LOC:other Where is the Savannah River ?
-HUM:ind Who was the first woman killed in the Vietnam War ?
-LOC:other What planet has the strongest magnetic field of all the planets ?
-HUM:ind Who is the governor of Alaska ?
-NUM:date What year did Mussolini seize power in Italy ?
-LOC:city What is the capital of Persia ?
-LOC:other Where is the Eiffel Tower ?
-NUM:count How many hearts does an octopus have ?
-DESC:def What is pneumonia ?
-LOC:other What is the deepest lake in the US ?
-DESC:def What is a fuel cell ?
-HUM:ind Who was the first U.S. president to appear on TV ?
-LOC:other Where is the Little League Museum ?
-ENTY:other What are the two types of twins ?
-LOC:other What is the brightest star ?
-DESC:def What is diabetes ?
-NUM:date When was President Kennedy shot ?
-ABBR:exp What is TMJ ?
-ENTY:color What color is yak milk ?
-NUM:date What date was Dwight D. Eisenhower born ?
-ABBR:exp What does the technical term ISDN mean ?
-DESC:reason Why is the sun yellow ?
-NUM:money What is the conversion rate between dollars and pounds ?
-NUM:date When was Abraham Lincoln born ?
-DESC:def What is the Milky Way ?
-DESC:def What is mold ?
-NUM:date What year was Mozart born ?
-ENTY:animal What is a group of frogs called ?
-ENTY:veh What is the name of William Penn 's ship ?
-NUM:other What is the melting point of gold ?
-LOC:other What is the street address of the White House ?
-DESC:def What is semolina ?
-ENTY:food What fruit is Melba sauce made from ?
-DESC:def What is Ursa Major ?
-NUM:perc What is the percentage of water content in the human body ?
-NUM:weight How much does water weigh ?
-ENTY:event What was President Lyndon Johnson 's reform program called ?
-NUM:perc "What is the murder rate in Windsor 
-HUM:ind Who is the only president to serve 2 non-consecutive terms ?
-NUM:other What is the population of Australia ?
-HUM:ind Who painted the ceiling of the Sistine Chapel ?
-ENTY:dismed Name a stimulant .
-DESC:desc What is the effect of volcanoes on the climate ?
-NUM:date What year did the Andy Griffith show begin ?
-DESC:def What is acid rain ?
-NUM:date What is the date of Mexico 's independence ?
-LOC:other What is the location of Lake Champlain ?
-ENTY:plant What is the Illinois state flower ?
-ENTY:animal What is Maryland 's state bird ?
-DESC:def What is quicksilver ?
-HUM:ind Who wrote `` The Divine Comedy '' ?
-NUM:speed What is the speed of light ?
-NUM:dist What is the width of a football field ?
-DESC:reason Why in tennis are zero points called love ?
-ENTY:animal What kind of dog was Toto in the Wizard of Oz ?
-DESC:def What is a thyroid ?
-DESC:def What does ciao mean ?
-ENTY:body What is the only artery that carries blue blood from the heart to the lungs ?
-NUM:other How often does Old Faithful erupt at Yellowstone National Park ?
-DESC:def What is acetic acid ?
-NUM:dist "What is the elevation of St. Louis 
-ENTY:color What color does litmus paper turn when it comes into contact with a strong acid ?
-ENTY:color What are the colors of the German flag ?
-DESC:def What is the Moulin Rouge ?
-LOC:other What soviet seaport is on the Black Sea ?
-NUM:weight What is the atomic weight of silver ?
-ENTY:currency What currency do they use in Brazil ?
-DESC:def What are pathogens ?
-DESC:def What is mad cow disease ?
-ENTY:food Name a food high in zinc .
-NUM:date When did North Carolina enter the union ?
-LOC:other Where do apple snails live ?
-DESC:def What are ethics ?
-ABBR:exp What does CPR stand for ?
-DESC:def What is an annuity ?
-HUM:ind Who killed John F. Kennedy ?
-HUM:ind Who was the first vice president of the U.S. ?
-ENTY:substance What birthstone is turquoise ?
-HUM:ind Who was the first US President to ride in an automobile to his inauguration ?
-NUM:period How old was the youngest president of the United States ?
-NUM:date When was Ulysses S. Grant born ?
-DESC:def What is Muscular Dystrophy ?
-HUM:ind Who lived in the Neuschwanstein castle ?
-DESC:def What is propylene glycol ?
-DESC:def What is a panic disorder ?
-HUM:ind Who invented the instant Polaroid camera ?
-DESC:def What is a carcinogen ?
-ENTY:animal What is a baby lion called ?
-NUM:other What is the world 's population ?
-DESC:def What is nepotism ?
-DESC:def What is die-casting ?
-DESC:def What is myopia ?
-NUM:other What is the sales tax rate in New York ?
-NUM:perc Developing nations comprise what percentage of the world 's population ?
-LOC:mount What is the fourth highest mountain in the world ?
-HUM:ind What is Shakespeare 's nickname ?
-ENTY:substance What is the heaviest naturally occurring element ?
-NUM:date When is Father 's Day ?
-ABBR:exp What does the acronym NASA stand for ?
-NUM:dist How long is the Columbia River in miles ?
-LOC:city What city 's newspaper is called `` The Star '' ?
-DESC:def What is carbon dioxide ?
-LOC:other Where is the Mason/Dixon line ?
-NUM:date When was the Boston tea party ?
-DESC:def What is metabolism ?
-HUM:ind Which U.S.A. president appeared on `` Laugh-In '' ?
-ENTY:substance What are cigarettes made of ?
-LOC:city What is the capital of Zimbabwe ?
-ABBR:exp What does NASA stand for ?
-ENTY:plant What is the state flower of Michigan ?
-DESC:def What are semiconductors ?
-DESC:def What is nuclear power ?
-DESC:def What is a tsunami ?
-HUM:ind Who is the congressman from state of Texas on the armed forces committee ?
-HUM:ind Who was president in 1913 ?
-NUM:date When was the first kidney transplant ?
-LOC:other What are Canada 's two territories ?
-ENTY:veh What was the name of the plane Lindbergh flew solo across the Atlantic ?
-DESC:def What is genocide ?
-LOC:other What continent is Argentina on ?
-ENTY:other What monastery was raided by Vikings in the late eighth century ?
-DESC:def What is an earthquake ?
-LOC:other Where is the tallest roller coaster located ?
-DESC:def What are enzymes ?
-HUM:ind Who discovered oxygen ?
-DESC:def What is bangers and mash ?
-ENTY:animal What is the name given to the Tiger at Louisiana State University ?
-LOC:other Where are the British crown jewels kept ?
-HUM:ind Who was the first person to reach the North Pole ?
-DESC:def What is an ulcer ?
-DESC:def What is vertigo ?
-DESC:def What is the spirometer test ?
-NUM:date When is the official first day of summer ?
-ABBR:exp What does the abbreviation SOS mean ?
-ENTY:animal What is the smallest bird in Britain ?
-HUM:ind Who invented Trivial Pursuit ?
-ENTY:substance What gasses are in the troposphere ?
-LOC:country Which country has the most water pollution ?
-ENTY:animal What is the scientific name for elephant ?
-HUM:ind Who is the actress known for her role in the movie `` Gypsy '' ?
-ENTY:animal What breed of hunting dog did the Beverly Hillbillies own ?
-LOC:other What is the rainiest place on Earth ?
-HUM:ind Who was the first African American to win the Nobel Prize in literature ?
-NUM:date When is St. Patrick 's Day ?
-ENTY:animal What was FDR 's dog 's name ?
-ENTY:color What colors need to be mixed to get the color pink ?
-ENTY:sport What is the most popular sport in Japan ?
-ENTY:food What is the active ingredient in baking soda ?
-NUM:date When was Thomas Jefferson born ?
-NUM:temp How cold should a refrigerator be ?
-NUM:date When was the telephone invented ?
-ENTY:color What is the most common eye color ?
-LOC:other Where was the first golf course in the United States ?
-DESC:def What is schizophrenia ?
-DESC:def What is angiotensin ?
-HUM:gr What did Jesse Jackson organize ?
-ENTY:animal What is New York 's state bird ?
-LOC:other What is the National Park in Utah ?
-NUM:date What is Susan B. Anthony 's birthday ?
-LOC:state In which state would you find the Catskill Mountains ?
-ENTY:termeq What do you call a word that is spelled the same backwards and forwards ?
-DESC:def What are pediatricians ?
-HUM:gr "What chain store is headquartered in Bentonville 
-DESC:def What are solar cells ?
-DESC:def What is compounded interest ?
-DESC:def What are capers ?
-DESC:def What is an antigen ?
-ENTY:currency What currency does Luxembourg use ?
-NUM:other What is the population of Venezuela ?
-ENTY:other What type of polymer is used for bulletproof vests ?
-ENTY:currency What currency does Argentina use ?
-DESC:def What is a thermometer ?
-LOC:city What Canadian city has the largest population ?
-ENTY:color What color are crickets ?
-LOC:country Which country gave New York the Statue of Liberty ?
-ENTY:product What was the name of the first U.S. satellite sent into space ?
-ENTY:substance What precious stone is a form of pure carbon ?
-ENTY:substance What kind of gas is in a fluorescent bulb ?
-DESC:def What is rheumatoid arthritis ?
-LOC:other "What river runs through Rowe 
-DESC:def What is cerebral palsy ?
-LOC:city What city is also known as `` The Gateway to the West '' ?
-NUM:dist How far away is the moon ?
-ENTY:other What is the source of natural gas ?
-ENTY:veh In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?
-DESC:def What is pectin ?
-DESC:def What is bio-diversity ?
-ENTY:techmeth What 's the easiest way to remove wallpaper ?
-NUM:date What year did the Titanic start on its journey ?
-NUM:count How much of an apple is water ?
-HUM:ind Who was the 22nd President of the US ?
-ENTY:currency What is the money they use in Zambia ?
-NUM:count How many feet in a mile ?
-ENTY:substance What is the birthstone of October ?
-DESC:def What is e-coli ?
+fine_label	utterance
+flight	i want to make a round trip flight from washington to san francisco and return
+airfare	what are the coach fares from charlotte to la wednesday night
+flight	now i need a flight from detroit to san diego leaving tuesday evening
+airport	houston airports
+airfare	show me the cheapest one way fares from san diego to miami
+flight	show me the latest flight to love field
+flight	show me the qx fare flights between atlanta and oakland on delta airlines
+flight	i 'd like to see flights from pittsburgh to philadelphia
+flight	find me the cheapest flight from boston to washington
+flight	could you give me a flight between pittsburgh and philadelphia
+flight	show me the least expensive flight from miami to cleveland on sunday after noon
+flight	show me the earliest flights from boston to denver on wednesday
+flight	i 'm looking for a flight traveling from boston to denver one way and the cheapest way possible
+flight	show me the nonstop flights from atlanta to oakland that leave in the afternoon and arrive between 430 pm and 630 pm
+flight	i 'd like to see flights from baltimore to atlanta
+flight	show me all flights from baltimore to philadelphia
+aircraft	what kinds of planes are used by american airlines
+flight	on the flight from baltimore to san francisco on us air leaving at 420 what type of aircraft is used
+flight	list all flights on continental leaving denver
+flight	show afternoon flights from dallas to san francisco
+flight	show me all flights from boston to denver which arrive in denver wednesday before noon
+flight	all flights from washington dc to san francisco after 5 pm on november twelfth economy class
+airfare	what is the airfare between denver and pittsburgh
+ground_service	i need information for ground transportation denver colorado
+flight	what are the flights dallas to boston on monday morning
+flight	give me flights from atlanta to baltimore
+flight	is there a flight leaving at 1505 from pittsburgh to baltimore on july twenty fifth 1991
+flight	what is the cheapest flight from boston to atlanta
+flight	list all flights from new york to las vegas that fly nonstop on sunday and list flights from memphis to las vegas that fly nonstop on sunday
+flight	what is the first flight from atlanta to boston on thursday september fifth that leaves after 8 am
+flight	thank you for that information now i would like information on a flight on april sixteen from atlanta to philadelphia early in the morning
+airfare	what is the cost of flights from denver to san francisco
+airfare	show me the cheapest fare from baltimore to dallas
+flight	i 'd like to see the flights from denver to philadelphia again
+flight	show me the flights from boston to san francisco
+flight	show me the flights from atlanta to baltimore
+flight	what flights are available friday from philadelphia to oakland
+flight	i would like to fly from boston to atlanta
+flight	okay and can you tell me for flights departing from dallas to philadelphia the latest flight you would have departing from dallas to philadelphia
+airline	please show me airlines with flights from denver to boston stop philadelphia
+flight_no	which is the flight number for the us air flight from philadelphia to boston is it 279 or is it 137338
+ground_service	please list ground transport in san francisco
+flight	could you please show me all the weekday flights between denver and dallas
+flight	show me all flights from san diego to miami with a stop in denver
+ground_service	what ground transportation is available in san francisco
+flight	i would like to book a flight from denver to pittsburgh on july fifteenth i 'd like it to be the cheapest flight
+flight	what flights from tampa to cincinnati
+airline	which airlines fly between boston and philadelphia
+flight	list flights from phoenix to detroit on thursday june twenty fourth
+flight	all flights to baltimore after 6 pm
+flight	i need information for flights leaving san francisco on thursday evening and returning to boston
+ground_service	please give me ground transportation information for denver
+airfare	what is the economy thrift fare from boston to washington
+flight	when can i fly from philadelphia to dallas on a saturday morning
+flight	show me us air flights from san francisco to pittsburgh on tuesday
+flight	what is the earliest flight leaving boston and arriving in atlanta on november seventh
+distance	how far from the airport in the dallas fort worth airport is dallas
+flight	are there any american airlines flights flying into pittsburgh between 12 and 4 in the afternoon
+flight	list all flights from washington dc to tampa florida
+flight	i also need service from dallas to boston arriving by noon
+ground_service	i would like information on ground transportation in the city of atlanta from airport to downtown
+flight	i 'd like information on boston to washington
+airline	show me airlines going from pittsburgh going to denver and then continuing to san francisco on monday
+flight	i 'd like to make a trip from washington to san francisco
+flight	does american airlines fly from pittsburgh to atlanta
+flight	show me the earliest flight on wednesday from baltimore to newark
+flight	do you have a flight from philadelphia to san francisco with a stopover in dallas
+flight	show me all flights to dallas that are less than 1500 dollars round trip
+abbreviation	what does the fare code qw mean
+flight	information on round trip flights from pittsburgh to san francisco first class
+flight	flights from newark to cleveland 5 o'clock pm daily
+flight	what flights from cincinnati to tampa
+flight	what flights are between washington and san francisco
+flight	what is the earliest flight from boston to dallas fort worth leaving august eighth
+capacity	how many passengers fit on a d9s
+abbreviation	what is fare code qo mean
+flight	what flights are available friday afternoon from philadelphia to oakland california
+flight	list all united flights from boston to san francisco with fare code qx
+airfare	can you tell me the cheapest one way fare from boston to san francisco
+flight	what 's the last flight from houston to dallas
+flight	hi i 'd like a flight from tampa to montreal
+flight	list all flights that leave from baltimore or denver or pittsburgh and arrive in philadelphia
+flight	show me flights from denver to philadelphia
+flight	i would like a nonstop flight from new york to las vegas on march second
+flight	i want to fly from boston to atlanta i would like the cheapest fare please
+flight	flights from newark to boston
+airfare	what 's the cost of a first class fare from philadelphia to san francisco
+flight	is there a round trip flight from baltimore to denver connecting in dallas
+flight	give me the first flight from boston to atlanta
+flight	please give me all the flights from long beach california to memphis tennessee
+flight	i 'm interested in flying from atlanta to boston i 'd like to fly during breakfast
+flight	what flights fly from denver to san francisco on monday tuesday wednesday thursday and friday
+flight	i 'd like flight information between boston and washington september third
+flight	find travel arrangements for a round trip flight from dallas to pittsburgh after 8 pm
+airline	of all airlines which airline has the most arrivals in atlanta
+airfare	what does it cost to fly from boston to oakland on united airlines
+flight	baltimore to philadelphia wednesday
+airline	show me the airlines for flights to or from love field
+ground_service	what types of ground transportation are there to san francisco airport
+flight	flights from denver to chicago on sunday on continental
+airline	what is airline dl
+airline	show me the airlines that use love field
+flight	what 's the earliest flight from san jose to houston
+flight	show me all the flights arriving in charlotte around 5 pm next monday please
+abbreviation	what does mco mean
+quantity	how many fare codes belong to economy class
+flight	i 'm looking for flights from pittsburgh to philadelphia leaving before 9 am
+airfare	how much does it cost to fly from boston to atlanta
+flight	atlanta to pittsburgh
+flight	show me all flights from baltimore to dallas
+airfare	round trip fares new york to san jose
+flight	list all arrivals from any airport to baltimore on thursday morning arriving before 9 am
+airfare	what 's the price of the least expensive first class round trip ticket on us air from cleveland to miami
+flight	would you be able to put me on a flight with delta leaving the morning of august twenty seventh from baltimore to san francisco
+flight	what flights go from atlanta to washington dc on thursday
+city	show me the cities served by nationair
+flight	show me the flights from oakland to washington
+flight	all flights from boston to washington
+airline	which airlines fly from boston to washington dc but stopover in some other city
+flight	i would like to fly from boston to baltimore in the afternoon what flights are there
+flight	find a flight from washington dc to san francisco on tuesday
+airfare	what are the coach fares for flights from newark to la leaving after 3 pm
+flight	morning flight from boston to philadelphia
+abbreviation	what is the code for business class
+airfare	show me the first class fares from baltimore to dallas
+flight	list the flights on sunday afternoon from oakland to dallas
+flight	i would like to book a flight on us air first class from cleveland to miami on february twenty fourth
+flight	the earliest flight from boston to san francisco please that will be serving a meal
+flight	flight from milwaukee to chicago
+ground_service	what ground transportation is available from the denver airport to downtown denver
+flight	all the flights from baltimore to san francisco
+flight	may i have a listing of flights from minneapolis to long beach california on wednesday
+flight	can you tell me the cheapest flight between boston and san francisco
+flight	is it possible for me to fly from baltimore to san francisco
+flight	on april twenty would like to fly from denver to pittsburgh at about 8 o'clock in the morning
+flight	okay i 'd like to fly from denver to pittsburgh
+flight	show flights between toronto and san francisco
+flight	show departures and arrivals in atlanta for american airlines
+flight	what is the latest flight from philadelphia to boston
+aircraft	what kind of plane flies from boston to pittsburgh after noon
+flight	what 're the cheapest flights from new york to miami
+flight	what is your earliest flight from boston to washington on august twenty seventh
+flight	do you have flights from st. petersburg to toronto on monday
+airfare	show me the price of all flights from atlanta to washington dc
+flight	can i go from boston to san francisco with a stopover in denver
+airfare	i would like to find the cheapest one way fare from boston to oakland
+flight	give me the flights from milwaukee to st. louis leaving sunday morning
+flight	i need a flight from san francisco to pittsburgh and then pittsburgh to new york and new york to san francisco
+flight	okay what flights are there us air from orlando to cleveland leaving in the afternoon
+flight	what are the flights from boston to atlanta
+flight	find me the earliest flight from boston to atlanta
+flight	i need a flight from philadelphia to denver
+flight	find a flight from san francisco to boston on wednesday
+flight	now list for me only the united flights that flight from oakland to boston
+flight	is there a direct flight from denver to pittsburgh in the morning of august thirty first that is nonstop
+flight	what are the flights from philadelphia to dallas on october first 1991
+flight	are there any direct flights from atlanta to philadelphia arriving in philadelphia about 12 noon
+flight	show me a list of flights from san francisco to boston for august thirtieth
+flight	what is the earliest flight from boston that will arrive in denver
+flight	what is the first flight after 12 noon from washington for denver
+flight	what are the flights which depart from san francisco fly to washington via indianapolis and arrive by 9 pm
+flight	what is the latest flight i can take from washington to san francisco
+flight	i want a flight on twa from boston to san francisco
+city	where is general mitchell international located
+flight	what flights leave atlanta at about 3 in the afternoon and arrive in san francisco
+flight	give me flights from pittsburgh to baltimore
+flight	show me the flights from miami to denver
+flight	list nonstop flights from baltimore washington to oakland that arrive between 445 and 515 pm
+flight	please list the flights for me that leave dallas on tuesday morning and arrive in atlanta
+flight	i need a flight from baltimore to seattle that stops in minneapolis
+flight	what flights are there from newark to tampa
+flight	tuesday morning flights between charlotte and baltimore
+airfare	how much is a flight from washington to montreal
+flight	i 'd like to arrange a trip to baltimore on january first
+flight	i would like to fly from denver to boston on wednesday the twenty first
+flight	show me all direct flights from dallas fort worth to either san francisco or oakland
+flight	show nonstop flights from new york to miami on a tuesday which cost less than 466 dollars one way
+flight	list flights between denver and pittsburgh
+flight	please list all the flights from boston to san francisco leaving before 10 am
+flight	which are the least expensive flights between dallas and baltimore on july nineteenth
+flight	what flights do you have between oakland and boston with a stopover in dallas fort worth
+flight	i want to travel from philadelphia to san francisco with a stopover in dallas
+flight	please find a flight on delta from philadelphia to san francisco and give me the flight numbers
+flight	give me a list of flights between pittsburgh and baltimore
+airfare	what is the thrift economy flight fare from washington to san francisco
+flight	show me the morning flights from boston to philadelphia
+flight	give me a flight from tampa to charlotte on sunday
+flight	what 's the latest flight i can get from dallas to boston
+flight	give me flights from pittsburgh to baltimore
+flight	what flights from st. paul to kansas city on friday with supper served
+flight	i would like a flight from philadelphia to san francisco but i would like to stop in dallas
+flight	find me the latest flight leaving atlanta august seventh and arriving in denver
+flight	what are your flights from denver to baltimore
+flight	show me flights from new york to miami
+flight	please show me flights from pittsburgh to boston on saturday morning after 8 am
+flight	please list any flights from oakland california to philadelphia on tuesday
+flight	i need a flight from kansas city to chicago next wednesday that reaches chicago around 7 in the evening
+flight	i 'd like the earliest flight from dallas to boston
+airfare	i am looking for the cheapest fare from indianapolis to orlando on december twenty seventh
+flight	do you have any flights from denver to baltimore via dallas
+airline	show me the airlines that fly from toronto to boston
+flight	what flights are there from san francisco to philadelphia daily with economy class
+flight	show me the flights before 8 am on august second from boston to denver on delta
+flight	show me all flights from philadelphia to san francisco with one stop in dallas
+flight	show me all flights from san francisco to pittsburgh on friday
+flight	i am interested in booking an early morning flight from dallas into houston on february twenty second and returning late in the evening of february twenty second
+flight	first class american flight from philadelphia to dallas on wednesday
+flight	list all the flights from atlanta to philadelphia on august the first
+airline	what airlines fly from philadelphia to san francisco
+flight	show me the flights from boston to pittsburgh
+flight	what are the flights from boston to baltimore
+flight	what 's the first flight from dallas to houston
+airline	show me airlines between boston and san francisco
+flight	i 'd like a list of all the flights from san francisco to pittsburgh on sunday please
+flight	i need to know if there are any direct flights from st. petersburg florida to tacoma washington leaving preferably tomorrow morning
+flight	what is the first flight from boston to atlanta
+flight	show me a list of flights on american airlines from boston to dc on july twenty second
+flight	from philadelphia to toronto
+flight	please give me flights from atlanta to boston on wednesday afternoon and thursday morning
+flight	list least expensive flight from dallas to baltimore
+flight	show me flights from philadelphia to san francisco on wednesdays
+flight	show me flights from dallas to baltimore
+flight	flights from san francisco august one
+flight	what flights go to san francisco from boston
+flight	show me non first class flights from baltimore to dallas
+flight	i want an early morning flight between philadelphia and pittsburgh on tuesday morning
+flight+airfare	all flights and fares from atlanta to dallas round trip after 12 pm less than 1100 dollars
+flight	what are the cheapest flights from pittsburgh to atlanta
+flight	show me all the united airlines flights leaving dallas
+flight	show me the flights going from pittsburgh to san francisco on monday
+airfare	what are the first class fares from boston to pittsburgh on thursday
+flight	show me flights from boston to baltimore coach on wednesday about 12 noon
+abbreviation	what does dfw mean
+abbreviation	what does fn under fare code mean
+flight	list the flight from philadelphia to san francisco on american airlines
+airfare	i 'd like to see all the economy fares from baltimore to philadelphia
+flight_time	what is the schedule for flights between pittsburgh and boston on the evening of july ninth
+flight	list all day time flights from pittsburgh to boston
+flight	are there any flights before 12 noon on june fifteenth from long beach to columbus
+flight	i want to fly philadelphia to dallas on july eighth
+flight	which delta flights fly from boston to philadelphia
+flight	show me the flights arriving at love field
+flight	i 'm trying to fly from denver to boston and i want a flight that serves a meal
+flight	please show me flights from atlanta to oakland california on thursday after 1600 hours
+flight	i would like to travel from boston to denver early in the morning
+flight	can you tell me about flights from san jose to nashville on saturday afternoon
+abbreviation	what does us mean
+flight	find the latest flight from san francisco to atlanta that serves a meal
+flight	can you tell me which flights go from memphis to tacoma and make a stop in los angeles
+airport	what 's the airport at orlando
+flight	philadelphia to san francisco monday
+flight	give me the american airlines flights from phoenix to milwaukee on wednesday
+flight	show me the cheapest flight from pittsburgh to atlanta on wednesday which leaves before noon and serves breakfast
+flight	i want a flight from montreal quebec to san diego california that leaves sunday
+airline	which airlines fly from boston to san francisco
+flight	what are the flights on tuesday october first from atlanta to baltimore
+flight	nonstop flights from new york city to las vegas on sunday
+flight	show me the united flights from bwi to denver
+flight	what flight leaves dallas for atlanta on august twenty seventh in the evening
+flight	i 'd like to find the earliest flight possible from san francisco to atlanta
+flight	please list all northwest flights into denver
+flight	display all flights leaving from toronto to san diego on us air laying over in washington dc
+flight	flights from st. paul to houston
+quantity	how many nonstop flights going from dallas to oakland july twenty seventh
+airline	what airlines fly between boston and san francisco and stop in denver
+flight	now i need a one way flight from pittsburgh to denver
+flight	what is the latest flight from washington dc to denver
+flight	i 'd like a flight on united airlines from dallas to san francisco that leaves after 815 am
+flight	what are my choices of flights from las vegas to new york
+flight	what is the latest flight on wednesday going from atlanta to washington dc
+flight	list all flights from atlanta to baltimore thursday morning
+airline	what is airline nw
+airline	does any airline have an early afternoon flight from boston to pittsburgh
+airline	which airlines fly between boston and pittsburgh
+flight	flights from las vegas to montreal
+flight	please list flights between denver and boston
+flight	what first class flights are available on july twenty fifth 1991 from denver to baltimore
+flight	is there a round trip flight from baltimore to dallas connecting in denver
+flight	i need a flight from long beach to st. louis stopping in dallas the flight should also serve lunch
+flight	okay show me all the flights to baltimore
+flight	what is the cheapest flight from long beach to memphis
+flight	i 'm interested in round trip flights from boston to washington
+flight	what is the cheapest flight from denver to pittsburgh
+flight+airfare	all flights and fares from dallas
+flight	list flights from san jose to houston next sunday
+flight	i wish to book a flight from pittsburgh to atlanta coach discount fare
+flight	can you give me a list of the flights from atlanta to boston
+flight	what is the latest flight from boston to denver that serves a meal
+flight	i 'd like to fly between boston and san francisco
+abbreviation	what does fare code qo mean
+flight	please list the shortest one stop flight from ontario california to orlando florida
+flight	i 'd like to see all flights from pittsburgh to philadelphia again
+flight	show me flights from san francisco to seattle
+flight	flights from pittsburgh to baltimore arriving between 4 and 5 pm
+flight	list all daily flights between boston and oakland and between oakland and boston using delta airlines
+flight	can you show me the available flights from baltimore to dallas with economy fares
+flight	how can i go from the san francisco airport to downtown san francisco
+ground_service	ground transportation in las vegas
+flight_time	show me times for coach flights between boston and baltimore on wednesday
+flight	give me the continental flights from chicago to seattle on saturday morning
+flight	show me the cheapest flights round trip from new york to san jose arriving in san jose before 7 pm
+airfare	show me the cheapest fare from dallas to baltimore
+flight	list the flights that leave from philadelphia to atlanta early thursday morning before 8 am
+airfare	find me the cheapest one way fare i can get from boston to denver
+aircraft	what type of plane is an m80
+flight	i need a list of late afternoon flights from st. louis to chicago
+flight	list all flights please from washington to san francisco
+flight	which united airlines flights go through denver
+flight	list all nonstop flights on sunday from tampa to charlotte
+flight	what do you have going from atlanta to philadelphia serving breakfast
+flight	okay that sounds great let 's go from atlanta on april twenty one in the morning to dallas least expensive fare one way
+flight	what flights leave phoenix on wednesday evening and arrive in milwaukee
+ground_service	what ground transportation is available at the atlanta airport
+flight	what is united airlines service between boston and san francisco
+flight	display all the flights from baltimore to dallas which leave after 4 pm
+airfare	i need a ticket from los angeles to charlotte that leaves early in the morning
+flight	flights from montreal and phoenix to las vegas
+flight	does twa have a flight from indianapolis to houston arriving at 11 am
+flight	on continental flight 1765 from boston to san francisco what type of meal is served
+flight	i 'd like to fly from boston to san francisco
+airfare	what is the cheapest one way ticket from denver to pittsburgh
+flight	find me a flight from boston to san francisco with layover in denver on united
+flight	show all monday flights from san francisco to pittsburgh
+aircraft	show me the aircraft that canadian airlines uses
+flight	what flights does delta have from denver to dallas after 5
+flight	show me all flights from indianapolis
+flight	show me flights from milwaukee to orlando on wednesday night
+airfare	what is the coach fare between boston and atlanta on delta
+flight	could you find me a flight from boston to san francisco that stops in denver
+flight	list round trip flights between boston and oakland using twa
+flight	i 'd like flight information from dallas fort worth to boston on tuesday
+flight	what am flights are available from pittsburgh to boston
+flight	show me flights from boston to san francisco
+flight	what is the last flight to atlanta from baltimore
+flight	list all flights departing from general mitchell
+flight	does eastern have an early afternoon flight from boston to san francisco
+flight	all flights from charlotte to anywhere on us air
+airline	which airline serves denver pittsburgh and atlanta
+flight	dallas to baltimore
+flight	i would like to fly to san francisco early in the day
+flight	find the cheapest flight from denver to atlanta with a stopover in pittsburgh
+airline	which airlines are represented in the database
+flight	what flights go from san francisco to dallas
+flight	what are the flights from cleveland to indianapolis on wednesday may twelfth on either twa delta or continental
+flight	what flights do you have leaving denver and arriving in san francisco
+flight	what is the cheapest flight from denver to oakland
+flight	find a nonstop flight between denver and oakland leaving in the afternoon and arriving near 5 pm
+flight	i would like to fly to denver for under 500 dollars please show me the airfares between pittsburgh and denver
+flight	give me the flights from pittsburgh to los angeles thursday evening
+quantity	how many flights does each airline have with booking class k
+quantity	how many airlines have flights with service class yn
+airfare	please give me the prices for all flights from philadelphia to denver airport next sunday
+ground_service	is there limo service at pittsburgh airport
+flight	i want to fly from atlanta to philadelphia
+flight	i want to arrive in detroit around 6 pm and i 'm leaving from chicago
+flight	are there any flights from denver to pittsburgh connecting in atlanta
+flight	nonstop flights denver to boston
+flight	show me one way flights from milwaukee to orlando wednesday
+flight	show me flights from san francisco to dallas please
+flight	what flights from any city land at general mitchell international
+flight	i live in denver and i 'd like to make a trip to pittsburgh
+restriction	what 's restriction ap68
+flight	show me the flights from boston to baltimore
+flight	what flights leave from atlanta to boston on june twenty ninth in the afternoon
+flight	i 'd like to fly from boston to oakland through denver
+flight	i 'm interested in a flight from pittsburgh to atlanta
+flight	what is the last flight from washington to boston
+flight	i would like a flight from baltimore to san francisco on twa with a stop in denver
+flight	what flights do you have from boston to pittsburgh on wednesday of next week after 6 pm
+flight	does american airlines fly from atlanta to philadelphia
+flight	from washington to atlanta
+flight	what nonstop flights are available from oakland to pittsburgh
+flight	show me the flights from denver to philadelphia and the flights from pittsburgh to philadelphia
+flight	list nonstop flights from san francisco to oakland that depart in the afternoon
+airfare	what is the cheapest fare that i can get between philadelphia and san francisco
+flight	i would like information on flights leaving atlanta in the afternoon arriving in dallas
+city	what city is mco
+city	where is lester pearson airport
+flight	what is the earliest arrival in salt lake city of a flight from toronto
+flight	do you have a flight from atlanta to boston that will stop in washington
+flight	also show me flights from san francisco to pittsburgh on tuesday
+flight	i 'd like a flight tomorrow from san diego to toronto
+flight	hi i 'd like to fly from columbus to phoenix and make a stop in cincinnati along the way
+flight	show all nonstop flights from boston to atlanta
+aircraft	what kind of airplane goes from boston to san francisco before noon
+airfare	how much does it cost to fly on delta from dallas to baltimore
+aircraft	what type of aircraft flies from pittsburgh to baltimore
+flight	what flights are available from atlanta to washington dc on wednesday
+aircraft+flight+flight_no	i want to fly from detroit to st. petersburg on northwest airlines and leave around 9 am tell me what aircraft are used by this flight and tell me the flight number
+flight	list the flights from toronto to salt lake city
+flight	newark to cleveland
+flight	on a breakfast flight from philadelphia to dallas via atlanta
+airline	please show me airlines with flights from denver to philadelphia
+flight_no	i would like the flight number and the time for the cheapest fare that is the least expensive first class fare from san francisco to pittsburgh leaving after 8 pm monday night
+flight	philadelphia to dallas saturday
+flight	what are the classes of service on lufthansa
+flight	what flights are available from atlanta to oakland with one way economy fares
+flight	am flights from atlanta to philadelphia
+abbreviation	what is the meaning of restriction ap80
+flight	show me all the flights arriving around noon in washington dc from denver
+flight	what flights are there from dallas to pittsburgh on monday morning
+flight	i need a cheap flight from baltimore to san francisco
+flight	from baltimore to san francisco
+flight	what flights are available saturday to san francisco from dallas
+airfare	what is the cost of united airlines flight 415 from chicago to kansas city thursday night
+flight	flights from pittsburgh to baltimore between 10 am and 2 pm
+flight	list all flights on continental from denver to chicago on sunday which depart after 934 pm
+flight	is there an atlanta flight to denver connecting
+flight	please give me flight schedules from pittsburgh to philadelphia
+flight	show me all flights arriving to denver from boston
+aircraft	show me the type of aircraft that cp uses
+flight	list daily flights from oakland to boston using united airlines
+flight	what nonstop flights between boston and washington arrive after 4 o'clock pm
+airfare	what are the most expensive first class tickets between boston and san francisco
+flight	what is the first flight from boston to dallas
+airfare	what is the price of a first class ticket from milwaukee to san francisco round trip
+flight	show me the evening flights from baltimore to atlanta
+flight	tell me about flights from toronto to salt lake city leaving toronto between 530 and 7 pm
+flight	please show me the philadelphia to denver saturday flights again
+flight	show me all the flights on delta airlines and twa that go to atlanta in the morning
+flight	what is the earliest flight leaving washington to san francisco
+flight	i live in montreal and i want to travel to chicago then indianapolis and then return home
+airline	what airlines fly from dallas to baltimore
+flight	do you have an early morning direct flight from philadelphia to pittsburgh
+flight	what is the last flight from boston to atlanta
+airfare	what are the fares between new york and la on monday morning
+flight	newark to minneapolis on sunday
+airfare	what are the lowest one way fares from atlanta to denver
+flight	i need a united airlines flight from denver to baltimore on saturday
+airfare	find the cheapest one way fare from boston to oakland
+abbreviation	what is ewr
+flight	show flights from san francisco to denver on a thursday
+abbreviation	what does fare code y mean
+flight	flights from denver to westchester county new york weekdays
+flight	is breakfast served on flight ua 343 from boston to denver coach class
+flight	daily flights from newark to cleveland departing 5 o'clock pm
+flight	i would like to fly from atlanta to philadelphia
+flight	i 'd like to book the cheapest one way flight from pittsburgh to atlanta on july twentieth
+flight	show me flights from pittsburgh to san francisco on sunday
+flight	i want to go from baltimore to san francisco with a stopover in denver
+flight	flight from dallas to boston tomorrow
+flight	does delta have an early afternoon flight from boston to san francisco
+airfare	show me the lowest fare for a round trip flight from baltimore to dallas
+flight	a breakfast flight from denver to san francisco please
+flight	are there any flights from boston to san francisco which stop in denver
+flight	chicago to san francisco on continental
+airline	what airlines fly from new york to milwaukee to los angeles
+flight	flights from atlanta to dallas in the afternoon
+airline	can you list all the airlines that have flights from boston to san francisco
+flight	are there delta flights leaving atlanta
+flight	what flights from las vegas to san diego
+flight	show flights first class on american from philadelphia to dallas fort worth
+flight	show me all flights from san francisco to pittsburgh on a monday
+flight	show me flights from denver to boston on thursday
+airline	show all airlines flying from pittsburgh to san francisco
+flight	i want to travel from washington dc to philadelphia on tuesday morning
+flight	what is the earliest flight between boston and washington
+flight	what are the flights from orlando to kansas city
+flight	i need information for flights leaving baltimore and arriving in atlanta
+flight	what flights are there tomorrow from tacoma to san jose
+flight	show me the latest nonstop flight from denver to washington dc
+flight	i want a direct flight from oakland to boston that leaves on a wednesday
+abbreviation	what fare codes cover flights from philadelphia to san francisco
+abbreviation	what is fare code h
+flight	show me the flights from oakland to denver
+airfare	what is the cheapest round trip fare from atlanta to pittsburgh
+airfare	round trip fares from denver to philadelphia less than 1000 dollars
+flight	flight on monday from philadelphia to oakland california early morning
+flight	tell me about flights from salt lake city to st. petersburg
+flight	i want to fly from baltimore to philadelphia
+flight	i would like a flight from pittsburgh to san francisco on august twentieth
+flight	does delta airlines fly from boston to washington dc
+flight	what is the earliest flight from boston to san francisco on american airlines
+flight	i would like to fly from pittsburgh to atlanta on us air
+meal	do i get a meal on the atlanta to bwi flight eastern 210
+abbreviation	what is bna
+flight	i 'm interested in flights from denver to pittsburgh
+flight	what are the least expensive flights from denver to atlanta
+flight	show me flights from baltimore to dallas
+flight	information on flights from pittsburgh to philadelphia
+flight	i 'd like to book an flight on american airlines from boston to san francisco with one stop in pittsburgh
+flight	give me the flights from phoenix to milwaukee on wednesday
+flight	i 'd like flights on american from philadelphia to dallas arriving before 1145 am
+ground_service	what ground transportation is available from the pittsburgh airport
+flight	list all united flights from philadelphia to san francisco
+airline	could you please tell me the airlines that fly from toronto to san diego
+airfare	lowest fare from san francisco to los angeles
+flight	i would like to fly from boston to baltimore
+flight	show me the flights from denver to pittsburgh and atlanta
+flight	give me a list of flights between denver and oakland
+flight	show me all flights from san francisco to boston philadelphia or baltimore
+capacity	how many passengers can a boeing 737 hold
+flight	flights from ontario to orlando
+flight	show me the flights from indianapolis to montreal
+flight	show me the flights on tuesday morning from charlotte to baltimore
+aircraft	what 's the smallest plane flying from pittsburgh to baltimore on december seventeenth
+flight	may i have a list of flights going from boston to denver on the twenty ninth of july
+airline	please list all airline flights between denver and boston
+flight	please show me any united flights including connections between boston and san francisco at 5 in the evening
+flight	show me all the flights from denver and all the flights from miami that arrive at baltimore around noon
+flight	what flights leave after 7 pm from pittsburgh to philadelphia
+ground_service	ground transportation san francisco
+flight	find me the earliest flight from boston to atlanta on any day of the week
+flight	i would like to know the latest flight on wednesday you have leaving from oakland to salt lake city which offers a meal
+flight	do you have a 9 o'clock flight from boston to philadelphia
+restriction	what are the air restrictions on flights from pittsburgh to atlanta for the airfare of 416 dollars
+flight	on august thirtieth i would like a flight from denver to san francisco in the early am
+ground_service	show me ground transportation in westchester county
+flight	show me all the flights out of boston today
+airfare	how much will it cost taking coach from orlando to indianapolis on december twenty ninth flying us air 311
+flight	show me which flights from san francisco to pittsburgh on a monday are first class
+flight	show me all flights from san francisco to la guardia nonstop
+flight	list all flights from atlanta to dallas on friday
+flight	may i have a listing of flights from milwaukee to tacoma washington departing in the evening
+airfare	what is the least expensive one way ticket from atlanta to denver leaving on october twelfth
+flight	i need information flight information for tuesday on a flight leaving baltimore bound for dallas
+flight	flights from newark to cleveland daily 5 o'clock pm
+flight	what flights go from pittsburgh to newark after 823 in the morning
+flight	what flights are available from philadelphia to denver on sundays
+flight	all flights to baltimore after 12 pm
+flight	i would like a flight from philadelphia to dallas that makes a stop in atlanta
+flight	what is your last trip on august twenty seventh from washington to boston
+flight	show me all flights from pittsburgh to dallas
+flight	what flights are there on saturdays from philadelphia to denver
+airfare	i would like the cheapest one way fare from dallas to denver
+airfare	round trip fares from baltimore to philadelphia under 1000 dollars
+flight	philadelphia to san francisco with one stop in dallas please
+flight	show me the flights from miami to san diego with one stop in denver
+airfare	show me the fare for delta flight 296 from atlanta to philadelphia
+flight	give me the flights from new york to las vegas and memphis to las vegas on sunday
+flight	i would like to fly from boston to baltimore what time are the flights in the afternoon
+flight	show first flight from boston to philadelphia
+airfare	can you show me fares for december sixteenth from oakland to dallas one way only
+flight	show flights from denver into san francisco
+flight	thank you i also need to travel next wednesday evening from dallas to san francisco
+flight	flight from nashville to cleveland
+flight	i would like to find the least expensive flight from boston to denver
+flight	show me all flights from montreal
+airfare	what is the cheapest fare from washington to san francisco
+flight	i need information on flights leaving philadelphia on friday arriving in oakland california
+flight	i 'd like a flight tomorrow late from nashville to houston with dinner please
+flight	i 'd like to go from boston to atlanta sometime after 5 pm can you tell me the flights that could do that for me
+flight	i 'm interested in flying from boston to atlanta
+ground_service	what is the ground transportation available in denver
+flight	list all the flights that arrive at general mitchell international from various cities
+flight	what is the earliest flight from washington to san francisco on friday that serves breakfast
+flight	what are my choices of flights to get from charlotte to minneapolis arriving about 7 pm in minneapolis
+flight_time	what time are the flights leaving from denver to pittsburgh on july seventh
+flight	show me flights from baltimore to dallas
+flight	what flights from atlanta to toronto
+abbreviation	what does fare code q mean
+flight	last nonstop flight from los angeles to pittsburgh on monday night
+airfare	what is the fare going from baltimore to boston one way on november seventh
+flight	show me all the flights that arrive in baltimore from anywhere between 1850 and midnight
+flight	san francisco to denver
+flight	i want a flight from denver to pittsburgh then from pittsburgh to atlanta then from atlanta back to pittsburgh back to denver
+flight	list all flights leaving on thursday morning from new york city to montreal
+flight	show me the united flights which go from boston to washington dc
+airfare	give me the least expensive first class round trip ticket on us air from cleveland to miami
+flight	show me the flights from all airports to love field
+flight	i 'm trying to find a flight from columbus to phoenix through cincinnati
+flight	which united airlines flight flies from boston to san francisco and makes a stopover in philadelphia
+flight	could you tell me about flights from philadelphia to dallas the flights should leave philadelphia in the morning
+flight	i would like to fly from baltimore to san francisco on eastern airlines
+flight	what are the cheapest one way flights from pittsburgh to atlanta
+airfare	show fares and flights from denver to oakland
+flight	list the flights from houston to st. paul
+flight	what flights depart newark for tampa on friday
+flight	show me all the available flights from baltimore to dallas with economy fares
+flight	do any of the san francisco to boston flights leave on friday
+airline	please show me airlines with flights from boston to denver
+airfare	what is the lowest cost fare that delta has between boston and san francisco
+airfare	dl 296 denver to philadelphia what is the fare
+airfare	what is the lowest cost for a one way ticket from boston to washington
+flight	what flights from kansas city to denver
+flight	does united airline have any flights from dallas to san francisco
+flight	do all the flights to oakland land at the same place
+airfare	please show me the cost of flight ua 201 from boston to denver and flight ua 343 from boston to denver
+flight	i need flights that arrive in baltimore from pittsburgh
+flight	show me all the flights from new york to milwaukee
+flight	what flights are there between atlanta and denver
+flight	what flights are available from pittsburgh to oakland airport
+flight	i 'm requesting flight information on a flight from san francisco to pittsburgh on friday
+flight	show me morning flights from toronto
+airfare	what is the fare from san francisco to dallas fort worth on delta flight 852
+flight	what flights do you have today from san francisco to pittsburgh
+flight	what are all flights from philadelphia to denver on wednesdays
+quantity	how many delta flights leave from washington
+flight	i 'd like the flights from san jose to nashville on the morning of friday june third
+flight	what flights go from philadelphia to dallas with a stopover in atlanta
+flight_time	what is the departure time of the latest flight of united airlines from denver to boston
+flight	all flights from denver to pittsburgh leaving after 6 pm and before 7 pm
+flight	show me all flights from pittsburgh to oakland that arrive after 10 am
+flight	and what is the last flight from denver to boston for tomorrow evening
+airfare	how much is the 718 am flight from las vegas to new york twa
+flight	show me all flights from philadelphia to dallas which arrive in dallas before 3 o'clock pm on saturday
+flight	list all flights from boston to atlanta after 6 o'clock pm on wednesday
+flight	what northwest airline flights leave denver before noon
+flight	do you have an afternoon flight leaving in the afternoon going from boston to san francisco with a stopover in dallas
+flight	show me all flights from new york to miami on a tuesday with round trip fares under 932 dollars
+airline	what airlines fly from boston to pittsburgh
+flight	please list the thursday morning flights from st. louis to st. paul
+flight	show me all flights from san diego to los angeles
+flight	can you list all nonstop flights departing from st. petersburg and arriving in charlotte
+flight	flights from phoenix to newark
+abbreviation	what is hp
+flight	is there an american airlines flight in the evening from dallas to san francisco
+flight	show me all nonstop flights between denver and oakland leaving after noon and arriving after 5 pm
+flight	i 'm looking for a flight from charlotte to las vegas that stops in st. louis hopefully a dinner flight how can i find that out
+flight	show me the flights
+flight	give me flights that arrive in baltimore from atlanta
+flight	show me flights from denver to philadelphia
+flight	thank you for that information now i would like to book a flight from philadelphia to boston on the night of april sixteen around 9 o'clock
+flight	show me the flights from baltimore to philadelphia
+flight	yes i need a flight from denver to pittsburgh on july seventh
+flight	show me all flights on southwest airlines from san diego to san francisco
+flight	what flights leave seattle on sunday on continental after 9 pm
+ground_service	what ground transportation is available at the boston airport
+aircraft	kindly give me the type of aircraft used to fly from atlanta to denver
+flight	i need to take ten people from denver to phoenix please give me the flights during the week
+flight	what are the flights from charlotte to atlanta returning on tuesday july thirteenth
+flight	show me the flights from atlanta to bwi
+airfare	show me us air fares for next sunday from miami to cleveland
+flight	list all flights from pittsburgh to philadelphia
+ground_service	information on ground transportation in denver
+flight	show me all flights from philadelphia to atlanta that leave after 5 pm on wednesday
+airline	what airlines fly from boston to atlanta
+flight	i would like to fly from pittsburgh to san francisco
+flight	please show me all round trip flights from burbank to tacoma
+flight	flights from newark to cleveland
+airfare	what is the cheapest ticket from baltimore to san francisco on friday august thirtieth
+flight	flights from montreal and phoenix to las vegas arriving at the same time
+flight	from san francisco to denver
+quantity	how many stops on continental 1765 from boston to san francisco
+ground_service	what is the ground transportation between airport and baltimore
+flight	what flights depart baltimore and arrive by 8 pm friday in san francisco
+airfare	first class round trip airfare from indianapolis to memphis
+ground_service	is there ground transportation from atlanta airport to downtown atlanta
+flight	from las vegas to phoenix
+flight	what is the least expensive flight from atlanta to denver leaving on october twelfth
+flight	show me flights from boston to washington on monday
+flight	i would like to fly to baltimore
+flight	please list the tuesday flights from atlanta to st. louis
+flight	i 'd like to fly from boston to san francisco
+flight	what is the latest flight leaving las vegas for ontario
+flight	i need a nonstop flight from san diego to phoenix
+ground_service	what types of ground transportation are available in denver
+flight	i would like a flight from boston to atlanta
+flight	list daily flights from oakland to boston using twa
+flight	list daily flights from oakland to boston using delta airlines
+flight	what flights has continental from atlanta
+ground_service	what ground transportation is available in baltimore
+flight	i would like an afternoon flight from washington to boston on august twentieth
+flight	what flights leave pittsburgh and arrive in los angeles after 5 pm on thursday
+flight_time	when does continental fly from philadelphia to denver on sundays
+flight	show me the flights from boston to atlanta
+flight	are there any turboprop flights from pittsburgh to baltimore on december seventeenth
+quantity	how many cities are served by lufthansa with first class flights
+flight	show me the flights from boston to san francisco stopping in dallas on american airlines
+flight	i would like some information on flights leaving boston to atlanta
+flight	i want to travel from kansas city to st. paul and be there by dinnertime
+ground_service	what ground transportation is available in san francisco
+flight	do any us air flights leave from san francisco
+flight	i need a return flight from philadelphia to boston
+flight	list daily flights from denver to baltimore with first class service
+flight	us air next wednesday from cleveland to miami
+flight	show me flights from baltimore to dallas
+flight	show me the flights from cincinnati
+flight	show me all the flights that arrive in baltimore in the evening
+flight	show me all twa flights please
+flight	flight information on january twenty third 1992 from denver to san francisco
+flight	flights from pittsburgh to los angeles thursday evening
+ground_service	can you find out about the ground transportation available in atlanta
+flight	can you give me information on all the flights from san francisco no from pittsburgh to san francisco on monday
+flight	do you have any flights from boston to dallas fort worth that stop over in philadelphia
+ground_service	what are the ground transportation services in philadelphia
+flight	yes i 'm looking for a flight between oakland and boston with a stopover in dallas fort worth do you have one of those
+airline	which airline has the smallest plane leaving pittsburgh and arriving in baltimore on july fourth
+flight	list flights between boston and san francisco that serve breakfast
+flight	give me the flights from denver to baltimore on united airlines
+ground_service	is there a limousine service available from the pittsburgh airport
+ground_service	what ground transportation is there in oakland
+flight	all flights from boston to philadelphia which show up on tuesday afternoon
+aircraft	what type of aircraft is used on the first flight from philadelphia to dallas in the morning
+airfare	okay could you get me a round trip ticket from indianapolis to kansas city
+ground_service	in denver what kind of ground transportation is there from the airport to downtown
+ground_service	is there limousine service available at baltimore airport
+flight	i want to fly from milwaukee to orlando on either wednesday evening or thursday morning
+flight	list the morning flights at a 124 dollars from atlanta to boston
+ground_service	what is the ground transportation available in the city of philadelphia
+flight	show me the flights from philadelphia to dallas
+flight	show flights from denver to san francisco
+flight_time	what is the earliest departure time from boston to denver
+flight	please show me all one way first class flights from indianapolis to memphis
+flight+airfare	all flights and fares from atlanta to dallas round trip after 12 pm less than 1100 dollars
+flight	is there a flight around 3 pm from charlotte to minneapolis
+ground_service	what is the ground transportation from boston airport to boston downtown
+flight	what do you have tomorrow morning from pittsburgh to atlanta
+flight	american airlines from phoenix to denver
+flight	show all flights from pittsburgh to san francisco
+flight	list the flights from philadelphia to san francisco which have a layover in dallas
+flight	show me all the flights from denver to las vegas
+flight	give me flights from pittsburgh to baltimore
+flight	i would like to leave early in the morning
+flight	give me the flights on december twenty seventh with the fares from indianapolis to orlando
+flight	is there a flight on eastern airlines from boston to denver
+city	which cities does united airlines service
+flight	show me the flights from love field to any other airport
+flight	flight from cleveland to nashville
+flight	show me all the eastern airlines flights leaving pittsburgh between 12 and 4 in the afternoon
+flight	i need a listing of flights from kansas city missouri to salt lake city utah
+airline	show me the airlines from love field
+flight	is there one stop with the us air boston leaving at 705 to atlanta
+flight	on tuesday the twenty third flights from philadelphia to san francisco on american airlines
+airline	what airlines go to pittsburgh
+flight	does eastern airlines fly between boston and washington
+flight	flights from baltimore to san francisco
+flight	show me the flights from boston to baltimore
+flight	first flights from pittsburgh to atlanta on a thursday
+flight	list all daily flights between boston and oakland as well as boston and oakland using american airline
+flight	i would like a flight from atlanta to denver
+ground_service	can i get a taxi from long beach airport to downtown long beach
+flight	newark to cleveland
+flight	show me the flights from st. petersburg to toronto that leave monday
+flight	show me all flights from philadelphia to denver on sunday which leave philadelphia after noon
+flight	what delta flights from cincinnati to new york city arrive at new york city before 6 pm on saturday
+flight	i want to fly nonstop from denver to dallas
+airfare	what are the prices of the flights from atlanta to dallas in the morning
+flight	i 'm planning a trip to pittsburgh and i live in denver can you help me
+flight	show flights between boston and denver
+flight	flight from boston to baltimore
+ground_service	i 'd like a limo in denver on august seventh
+flight	show me the flights on delta from atlanta in the morning
+flight	i need a flight from st. petersburg to miami for thursday
+flight	please show me flights from san francisco to dallas
+flight	show me the flights from denver to baltimore or washington dc that arrive before or around noon
+airfare	what is the cheapest round trip fare on continental 1291 round trip denver san francisco
+airfare	what is the cheapest fare between boston and san francisco
+flight	what does flight code us mean
+flight	what flights are there from atlanta to oakland on thursday
+flight	what are the flights from kansas city to burbank on saturday may twenty two on america west
+flight	i would like information for flights from baltimore to dallas on early tuesday morning
+flight	i 'd like a nonstop flight from indianapolis to san diego that serves dinner what 's available
+aircraft	what kind of aircraft does delta use before 8 am on august second from boston to denver
+flight	all flights leaving washington dc to san francisco that are first class
+flight	show all flights from pittsburgh to san francisco on july twenty eighth 1991
+flight	i 'd like a flight leaving atlanta august seventh and arriving in denver colorado august seventh leaving in the afternoon
+flight	i need a flight from indianapolis to toronto reaching toronto on thursday morning
+aircraft	what type of aircraft leaves from boston to washington dc at 9 am during a weekday
+flight	show me return flights from cincinnati to salt lake city nonstop
+quantity	how many first class flights are provided by american airlines
+flight	flights to baltimore
+flight	what flights go from pittsburgh to denver after 2 pm
+flight	i need a flight from kansas city to chicago that leaves wednesday and arrives in chicago around 7 pm
+flight	okay for now i would like information on a flight on april twenty seventh from pittsburgh to atlanta leaving early in the morning about 8 o'clock
+flight	i would like to plan a flight on american airlines from boston to denver
+airline	which airlines serve atlanta
+flight	please list the wednesday american airline flights from milwaukee to san jose
+flight	please list all the takeoffs and landings for general mitchell international
+airfare	round trip fares from baltimore to philadelphia under 1000 dollars
+flight	show me the flights from denver to san francisco
+abbreviation	what is fare code h
+flight	i want a flight from toronto to san diego that stops in st. louis are there flights
+flight	i would like a flight from dallas to philadelphia
+flight	give me the flights on tuesday from los angeles to pittsburgh
+flight	what is the earliest flight leaving denver and arriving in baltimore on united airlines first class on july fourth
+flight	please list all flights between boston and atlanta
+flight	what is the cheapest flight from long beach to memphis
+flight	newark to cleveland
+flight	is there a flight between oakland and boston with a stopover in dallas fort worth on twa
+flight	flights from phoenix to las vegas
+flight_no	please show me the return flight number from toronto to st. petersburg
+flight	do you have a united flight from boston to washington
+flight	what is the latest flight departing from boston to san francisco
+flight	what 's the latest flight from houston to dallas
+flight	show flights from pittsburgh to oakland
+airfare	list the fares of midway airlines flights from boston to philadelphia
+flight	show me flights from milwaukee to orlando on a thursday before noon
+flight	i want to see the cheapest flight from atlanta to baltimore
+flight	i would like to book a flight on june first from los angeles to pittsburgh in the late afternoon
+flight	does midwest express serve philadelphia
+flight	show me all the direct flights from baltimore to atlanta
+flight_time	all right give me the flight times in the morning on september twentieth from pittsburgh to san francisco
+flight+airfare	give me the flights and fares on december twenty seventh from indianapolis to orlando
+flight	show me the flights from dallas to baltimore in first class
+flight	what flights go from philadelphia to dallas via atlanta
+flight	show me the flights from boston to san francisco that arrive in the afternoon
+flight	what flights from toronto to philadelphia
+airport	show me airports in washington dc
+flight	show me flights from oakland to dallas on sunday
+flight	does american airlines fly from boston to san francisco
+airline	which airlines have flights between philadelphia and pittsburgh
+flight	list the flights from dallas to baltimore
+flight	show me the flights arriving at love field from other airports
+flight	tell me the flights from baltimore to dallas
+flight	flights from kansas city to cleveland
+flight	what are your flights from pittsburgh to baltimore
+flight	what are the evening flights flying out of dallas and going to san francisco on american airlines
+flight	show me flights on monday from philadelphia to boston after 7 am
+flight	what evening flights do you have available from baltimore to philadelphia
+flight	all flights phoenix to sfo
+flight	show me flights from dallas to atlanta
+flight	please list all flights on united airlines and northwest airlines that go into denver and all flights on northwest airlines and united airlines that fly out of denver
+flight	do you have a flight from charlotte to atlanta next tuesday
+ground_service	show me the ground transportation at denver
+flight	show me the flights from baltimore to boston
+flight	phoenix to newark on wednesday
+flight	please give me the flights from boston to pittsburgh on thursday of next week
+airfare	show me round trip first class tickets from new york to miami
+flight	what flights from kansas city to denver after 845 in the morning
+flight	please show me the round trip flights from st. petersburg to toronto
+flight	i 'm sorry i wanted to fly twa is there a flight between oakland and boston with a stopover in dallas fort worth on twa
+flight	show me all flights from charlotte to columbus
+flight	i need a flight from san diego to indianapolis leaving in the afternoon on tuesday
+flight	show me all the flights from burbank
+flight	i need a round trip flight from cincinnati to san jose california
+airfare	what is the round trip first class fare on united from boston to san francisco
+flight	i need to go from boston to atlanta in the same day find me the earliest flight from boston
+airfare	show me all the one way fares from tacoma to montreal
+flight	show me all flights from dallas to san francisco
+flight	i would like to see the flights from denver to philadelphia
+flight	information on first class round trip from pittsburgh to san francisco
+flight	is there a flight between washington dc and san francisco on us air at 8 am
+flight	is twa flight 497766 from st. petersburg to milwaukee with one stop available tomorrow morning
+flight	please list pm flights from boston pittsburgh
+flight	give me the earliest flight tomorrow from st. petersburg to milwaukee on a airline other than twa
+flight	show me flights from denver to boston on tuesday
+flight	show me the flights from san francisco to boston
+ground_service	ground transportation minneapolis
+airline	what airlines fly between boston and atlanta
+city	what time zone is denver in
+abbreviation	what is fare class h
+flight	what flights go from boston to atlanta
+flight	please show me flights which cost less than or equal to 466 dollars from new york to miami leaving on a tuesday
+flight	what are my options for a minneapolis back to indianapolis flight around noontime
+flight	flights from denver to philadelphia include fares
+flight	what is the first flight from boston to atlanta and what is the last flight from atlanta to boston
+flight	what flights are there from pittsburgh to san francisco on friday
+flight	show me the flights from baltimore to boston
+airfare	show me the prices of first class tickets on us air round trip from cleveland to miami
+ground_service	i need ground transportation in dallas please show me what 's available
+flight	show me next wednesday 's flights between phoenix and milwaukee
+flight	i 'd like to make a round trip from la to newark by way of charlotte
+flight	show flights from pittsburgh into san francisco arriving after 12 noon
+flight	flights from washington august second
+flight	what flights are there from denver to atlanta
+flight	all flights from boston to washington dc on the tenth of november
+flight	i need a flight from denver to philadelphia on saturday
+flight	show me all flights from boston to dfw
+flight	list all us air flights from miami to cleveland leaving on sunday afternoon
+flight	list all flights arriving and departing at general mitchell international
+flight	flights from dc to denver
+flight	from pittsburgh to baltimore
+airfare	how much is a first class ticket from boston to san francisco
+flight	now i 'd like information on flights from denver to san francisco
+flight	what flights available between pittsburgh and baltimore on august eleventh
+flight	show me all daily flights between milwaukee and orlando
+flight	is there a flight from boston to san francisco making a stopover in dallas fort worth
+flight	show flights and fare information from pittsburgh connecting through denver to oakland
+airfare	i need one first class ticket from dallas fort worth to san francisco
+flight	please give me the flights from denver to pittsburgh which leave in the morning on july second
+airfare	can you show me one way economy fares from dallas to atlanta
+flight	please list the flights from toronto to washington dc
+flight	from toronto to atlanta in the afternoon
+aircraft	can you please tell me the type of aircraft used flying from atlanta to denver on eastern flight 825 leaving at 555
+flight	show me the flight that leaves philadelphia in the afternoon and arrives in the evening in denver
+airfare	give me fares from atlanta to baltimore
+flight	what is the latest return flight from atlanta to boston
+flight	show me the daily flight schedule between boston and pittsburgh
+flight	dallas to san francisco leaving after 4 in the afternoon please
+airfare	show me the round trip tickets from baltimore to atlanta
+flight	i would like to see the daily flights from baltimore to philadelphia
+flight	can you list all flights departing from toronto and landing in san diego with a stopover in denver
+flight	show me all flights from philadelphia to boston on monday which serve a meal and arrive before noon
+flight	show me flights from pittsburgh to atlanta on monday afternoon
+flight	what flights are available thursday afternoon from baltimore to atlanta
+flight	show me all flights from baltimore to san francisco
+flight	what are the cheapest round trip flights from denver to pittsburgh
+airfare	what 's the cheapest round trip fare between dallas and baltimore
+flight	list evening flights tomorrow from phoenix to detroit
+flight	i would like to fly from denver to pittsburgh and atlanta
+flight	please show me flights from pittsburgh to atlanta on wednesday morning serving breakfast
+flight	what flights go from newark to boston after 5 pm
+flight	show me flights from boston to denver on wednesday
+flight	what northwest flights stop in denver
+flight	show me flights from new york to miami on a tuesday with a round trip fare less than 466 dollars
+flight	from las vegas to montreal
+quantity	please tell me how many nonstop flights there are from boston to atlanta
+flight	flights from new york city to montreal
+airfare	show me all the night fares between philadelphia and san francisco
+airfare	i 'd like to find the least expensive one way fare from boston to philadelphia
+flight	show me saturday and sunday 's flights from milwaukee to phoenix on american airlines
+flight	what flights are there from milwaukee to phoenix on saturday
+flight	on friday i need to see all flights that leave atlanta and arrive in dallas before 6 pm
+airfare	cheapest round trip airfare from tacoma to orlando
+flight	show me all flight from san francisco to oakland
+ground_fare	can you list costs of denver rental cars
+flight	okay i 'd like a flight from boston to san francisco that leaves before 8 am
+flight	list all flights from boston to san francisco with the maximum number of stops
+flight	what are the afternoon flights leaving from dallas to san francisco on american airlines
+ground_service	how do i get downtown from the toronto airport
+airfare	what is the fare on continental 271 from dallas to san francisco
+flight	what are the flights from atlanta to dallas
+flight	list all flights on sunday from san francisco to pittsburgh nonstop
+flight	can you show me the cheapest round trip flights between denver and pittsburgh
+airfare	please show me round trip tickets from denver to oakland
+flight	i would like to fly from boston to philadelphia next thursday
+aircraft	what planes are used by twa
+flight	oakland to denver
+flight	show me evening flights to baltimore
+airfare	how much does a first class round trip ticket from cleveland to miami on us air cost
+flight	show me all flights from san francisco to boston on november tenth
+flight+airfare	all flights and fares from pittsburgh to dallas round trip after 12 pm less than 1100 dollars
+flight	show me all the flights between philadelphia and denver
+flight	which flights depart los angeles destination charlotte that leave on a monday morning
+flight	flights from memphis to las vegas on sunday
+flight	please list any flight available leaving oakland california tuesday arriving philadelphia wednesday
+flight	what flights go from boston to san francisco with a stop in dallas
+ground_service	show me ground transportation for dallas
+flight	i want to fly from miami to chicago on american airlines and arrive at around 5 o'clock in the afternoon show me all flights
+flight	show me dallas to boston flights
+flight	philadelphia to dallas arriving before 1 in the afternoon
+flight	give me the flights from pittsburgh to los angeles on thursday evening
+flight	what are the flights from milwaukee to tampa
+flight	what flight from boston to atlanta arrives earliest in atlanta
+flight	i 'm looking for a flight leaving denver traveling to atlanta and stopping at pittsburgh is this possible
+flight	what flights are there between nashville and st. louis which are nonstop and arrive after noon and before 8 pm
+aircraft	all right would you let me know type of aircraft united airlines is using on the flights from denver to san francisco i would like to know the type of aircraft that they use on these flights before 10 in the morning
+flight	can you list all flights from chicago to milwaukee
+flight	what flight do you have from pittsburgh to san francisco on the morning of august twenty seventh
+flight	information on flights from pittsburgh to san francisco
+flight	i 'd like to know what flights united airline has from dallas to san francisco
+flight	how about arrivals for american in atlanta
+flight	i would like to fly from atlanta to san francisco with a stopover in dallas
+ground_service	can you give me information on transportation from the airport in philadelphia to downtown philadelphia
+flight	i would like to book a flight on continental airlines from chicago to seattle on june first
+flight	boston to denver monday
+flight	i 'd like to book the cheapest flight from atlanta to denver on august first
+flight	okay could you tell me what flight leaves dallas to san francisco by united airline
+flight	can you list all flights from toronto to san diego
+flight	please list the american airlines flights from philadelphia to dallas on tuesday october first
+abbreviation	what does restriction ap 57 mean
+flight	tell me about flights from indianapolis to houston
+flight	where does canadian airlines international fly to
+flight_time	what is the schedule of flights from boston to denver next monday
+flight	list all nonstop flights from los angeles to pittsburgh which arrive before 5 pm on tuesday
+airline	which airlines have connections between pittsburgh and baltimore
+flight	what are the different classes that an airline offers
+airfare	what are the fares for flights between atlanta and dfw
+flight	what 's the cheapest flight from san francisco to boston
+flight	i 'd like an early flight tomorrow from columbus to nashville
+airfare	show me all first class fares from new york to miami leaving on a tuesday
+flight	i want to see the cheapest flight from denver to pittsburgh
+airfare	how much is a round trip fare from nashville to seattle
+flight	show me flights from washington dc to san francisco with a stopover in denver
+flight	please show me all round trip flights from new york to miami
+flight	find travel arrangements for a one way flight from boston to pittsburgh
+flight	list the flights arriving in boston from atlanta on august fifth
+flight	flights from philadelphia to oakland
+airline	do the airlines still offer first class
+flight	show flights from memphis to las vegas
+ground_service	what ground transportation is there in denver
+airfare	how much does it cost to fly on american from dallas to baltimore
+flight	what flights from denver to pittsburgh arrive before 8 in the morning
+ground_service	show me ground transportation in denver during weekdays
+flight	i need a flight to seattle leaving from baltimore making a stop in minneapolis
+flight	what is the earliest flight that eastern has between boston and washington
+flight	i would like to know flights on june fifteenth from long beach to columbus after 12 noon please
+flight	i 'd like to make a trip between atlanta and boston i wish to know the cheapest fare
+flight	i 'd like to fly continental airlines between boston and philadelphia
+quantity	how many fares are there one way from tacoma to montreal
+airfare	what is the cheapest fare from baltimore to dallas in any class
+flight	from los angeles to phoenix on a friday
+flight_no	i 'm trying to find the flight number from a flight from orlando to cleveland on us air and it arrives around 10 pm
+flight	okay can you tell me the earliest flight which leaves from philadelphia to dallas
+flight	list daily flights from denver to boston
+flight	show flights from pittsburgh to oakland
+flight	flight from denver to philadelphia
+ground_service	what ground transportation is available at the baltimore airport
+ground_service	what 's the ground transportation from oakland to san francisco
+flight	please list the flights taking off and landing on general mitchell international airport
+flight	show me all the flights between oakland and denver
+airfare	okay i just want to know the cheapest fare from atlanta to boston
+abbreviation	what does ea mean
+airline	which airline offers the cheapest rate going from dallas to baltimore on july fourth
+flight	i would like information on flights from oakland california to dallas leaving on sunday morning
+flight	i want to fly from boston to baltimore
+flight	what 's the earliest flight from san francisco to boston
+flight	list the cheapest round trip flights from orlando to kansas city
+flight	are there any nonstop flights from philadelphia to denver that arrive before 5 pm
+ground_service	what does ground transportation look like in oakland
+flight	is there a flight on delta airlines from boston to denver
+flight	show me all flights from pittsburgh to baltimore
+flight	give me the cheapest flight from dallas to baltimore on saturday
+flight	leaving washington going to san francisco the latest flight
+flight	what is the earliest flight from boston to atlanta
